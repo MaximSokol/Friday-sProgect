@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays and Objects. Also UML Diagrams", "Arrays and Objects. Also UML Diagrams.csproj", "{037C001F-31CA-4E38-AEC8-FA034C1C5972}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{037C001F-31CA-4E38-AEC8-FA034C1C5972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{037C001F-31CA-4E38-AEC8-FA034C1C5972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{037C001F-31CA-4E38-AEC8-FA034C1C5972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{037C001F-31CA-4E38-AEC8-FA034C1C5972}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4460AAE4-993D-4FA8-A3A6-C1D399275980}
+	EndGlobalSection
+EndGlobal
